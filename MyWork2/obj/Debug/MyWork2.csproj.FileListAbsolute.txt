@@ -1,0 +1,197 @@
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\MyWork2.exe.config
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\MyWork2.exe
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\MyWork2.pdb
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\EntityFramework.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\EntityFramework.xml
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.xml
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.csprojResolveAssemblyReference.cache
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.AddPosition.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.DataEditor.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Editor.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Form1.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Printing_AKT_PRIEMA.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Printing_AKT_VIDACHI.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Properties.Resources.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Registration.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.SearchFull.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Settings.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.GenerateResource.Cache
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.exe
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.pdb
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Graf.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.RedaktorAktov.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.BaseLineNumber.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.SURPRISE.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Password.resources
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\MyWork2.exe.config
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\MyWork2.exe
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\MyWork2.pdb
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\EntityFramework.dll
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.dll
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.dll
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\EntityFramework.xml
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.pdb
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.xml
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.xml
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.dll.config
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.csprojResolveAssemblyReference.cache
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.AddPosition.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.BaseLineNumber.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.DataEditor.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Editor.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Form1.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Graf.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Password.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Printing_AKT_PRIEMA.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Printing_AKT_VIDACHI.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Properties.Resources.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.RedaktorAktov.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Registration.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.SearchFull.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Settings.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.SURPRISE.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.GenerateResource.Cache
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.CoreCompileInputs.cache
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.exe
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.pdb
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Export.resources
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\EPPlus.dll
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\EPPlus.xml
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.Stock.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.StockAddPosition.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.StockEditor.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.StockPictureShowForm.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.ActPriemaPoGarantii.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.ActVidachiPoGarantii.resources
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\Newtonsoft.Json.dll
+D:\Backup\Projects\MyWork2\MyWork2\bin\Debug\Newtonsoft.Json.xml
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.SendSms.resources
+D:\Backup\Projects\MyWork2\MyWork2\obj\Debug\MyWork2.States.resources
+D:\Backup\MyWork2\MyWork2\bin\Debug\EntityFramework.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\EPPlus.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\Newtonsoft.Json.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\EntityFramework.xml
+D:\Backup\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup\MyWork2\MyWork2\bin\Debug\EPPlus.xml
+D:\Backup\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.pdb
+D:\Backup\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.xml
+D:\Backup\MyWork2\MyWork2\bin\Debug\Newtonsoft.Json.xml
+D:\Backup\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.xml
+D:\Backup\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.dll.config
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.csprojResolveAssemblyReference.cache
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.ActPriemaPoGarantii.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.ActVidachiPoGarantii.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.AddPosition.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.BaseLineNumber.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.DataEditor.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Editor.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Export.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Form1.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Graf.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Printing_AKT_PRIEMA.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Printing_AKT_VIDACHI.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Properties.Resources.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.RedaktorAktov.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Registration.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.SendSms.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Settings.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.States.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Stock.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.StockAddPosition.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.StockEditor.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.StockPictureShowForm.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.SURPRISE.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.GenerateResource.Cache
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.CoreCompileInputs.cache
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.ClientsEditor.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.ClientAddForm.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.ClientEditorTrue.resources
+D:\Backup\MyWork2\MyWork2\bin\Debug\Учёт в сервисном центре.exe.config
+D:\Backup\MyWork2\MyWork2\bin\Debug\Учёт в сервисном центре.exe
+D:\Backup\MyWork2\MyWork2\bin\Debug\Учёт в сервисном центре.pdb
+D:\Backup\MyWork2\MyWork2\obj\Debug\Учёт в сервисном центре.exe
+D:\Backup\MyWork2\MyWork2\obj\Debug\Учёт в сервисном центре.pdb
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.Authorisation.resources
+D:\Backup\MyWork2\MyWork2\obj\Debug\MyWork2.HistoryViewer.resources
+D:\Backup\MyWork2\MyWork2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Backup\MyWork2\MyWork2\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Backup\MyWork2\MyWork2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\Учёт в сервисном центре.exe.config
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\Учёт в сервисном центре.exe
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\Учёт в сервисном центре.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\EntityFramework.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\EPPlus.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\EntityFramework.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\EPPlus.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.ActPriemaPoGarantii.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.ActVidachiPoGarantii.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.AddPosition.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Authorisation.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.BaseLineNumber.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.ClientAddForm.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.ClientEditorTrue.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.ClientsEditor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.DataEditor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Editor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Export.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Form1.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Graf.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.HistoryViewer.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Printing_AKT_PRIEMA.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Printing_AKT_VIDACHI.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Properties.Resources.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.RedaktorAktov.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Registration.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Settings.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.States.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.Stock.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.StockAddPosition.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.StockEditor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.StockPictureShowForm.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.SURPRISE.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.GenerateResource.Cache
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\Учёт в сервисном центре.exe
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\Учёт в сервисном центре.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.ColumnsEdtitor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.SmsFromEditor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.SmsMain.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.SmsRassilka.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.CopyComplete
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.CoreCompileInputs.cache
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.TrackingMail.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.AssemblyReference.cache
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.SuggestedBindingRedirects.cache

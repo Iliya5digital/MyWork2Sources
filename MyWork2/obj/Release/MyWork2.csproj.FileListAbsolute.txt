@@ -1,0 +1,82 @@
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\MyWork2.exe.config
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\MyWork2.exe
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\MyWork2.pdb
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\EntityFramework.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\System.Data.SQLite.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\EntityFramework.xml
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\bin\Release\System.Data.SQLite.xml
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.csprojResolveAssemblyReference.cache
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.AddPosition.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.DataEditor.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.Editor.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.Form1.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.Printing_AKT_PRIEMA.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.Printing_AKT_VIDACHI.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.Properties.Resources.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.Registration.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.SearchFull.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.Settings.resources
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.csproj.GenerateResource.Cache
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.exe
+C:\Users\igora\documents\visual studio 2015\Projects\MyWork2\MyWork2\obj\Release\MyWork2.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.csprojResolveAssemblyReference.cache
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.ActPriemaPoGarantii.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.ActVidachiPoGarantii.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.AddPosition.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Authorisation.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.BaseLineNumber.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.ClientAddForm.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.ClientEditorTrue.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.ClientsEditor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.ColumnsEdtitor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.DataEditor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Editor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Export.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Form1.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Graf.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.HistoryViewer.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Printing_AKT_PRIEMA.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Printing_AKT_VIDACHI.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Properties.Resources.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.RedaktorAktov.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Registration.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Settings.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.SmsFromEditor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.SmsMain.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.States.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.Stock.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.StockAddPosition.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.StockEditor.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.StockPictureShowForm.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.SURPRISE.resources
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.csproj.GenerateResource.Cache
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\MyWork2.csproj.CoreCompileInputs.cache
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\Учёт в сервисном центре.exe.config
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\Учёт в сервисном центре.exe
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\Учёт в сервисном центре.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\EntityFramework.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\EPPlus.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\HtmlAgilityPack.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\Newtonsoft.Json.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\System.Data.SQLite.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\EntityFramework.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\EPPlus.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\HtmlAgilityPack.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\HtmlAgilityPack.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\Newtonsoft.Json.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\System.Data.SQLite.xml
+C:\Users\igora\OneDrive\MyWork2\MyWork2\bin\Release\System.Data.SQLite.dll.config
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\Учёт в сервисном центре.exe
+C:\Users\igora\OneDrive\MyWork2\MyWork2\obj\Release\Учёт в сервисном центре.pdb
